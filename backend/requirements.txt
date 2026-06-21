@@ -9,3 +9,6 @@ passlib[bcrypt]
 pytest
 httpx
 alembic
+black
+flake8
+isort
