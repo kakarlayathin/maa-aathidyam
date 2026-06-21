@@ -1,4 +1,4 @@
-# Maa Aathidyam — SaaS Client Dashboard
+# Shipyard Client Dashboard
 
 A full-stack SaaS Client Dashboard built with FastAPI and React.
 
