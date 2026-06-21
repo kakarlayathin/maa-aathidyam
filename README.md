@@ -1,6 +1,8 @@
-# Shipyard Client Dashboard
+# Shipyard
 
 A full-stack SaaS Client Dashboard built with FastAPI and React.
+
+**Shipyard** is a production-quality project management tool for tracking clients, projects, and tasks — built by Shipyard Engineering.
 
 ## Project Structure
 
@@ -28,7 +30,7 @@ maa-aathidyam/
 
 ## Tech Stack
 
-- **Backend:** Python FastAPI, SQLAlchemy (SQLite via Turso), Pydantic, pytest
+- **Backend:** Python FastAPI, SQLAlchemy, Pydantic, pytest
 - **Frontend:** React, Vite, TailwindCSS, Vitest
 - **CI/CD:** GitHub Actions
 
